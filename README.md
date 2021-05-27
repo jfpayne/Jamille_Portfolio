@@ -1,5 +1,5 @@
 # Jamille_Portfolio
 Example data science portfolio
 
-Data cleaning project with Python
-
+Data cleaning techniques with the Python Programming Language
+etc
