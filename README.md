@@ -6,12 +6,12 @@ Data cleaning techniques with the Python Programming Language
 
 
 
-# Pre-requisite
-# ---
-# Importing pandas library
-# ---
-# OUR CODE GOES BELOW
-# 
+Pre-requisite
+---
+Importing pandas library
+---
+UR CODE GOES BELOW
+
 import pandas as pd
 
 
