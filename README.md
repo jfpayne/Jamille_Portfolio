@@ -1,19 +1,21 @@
-# Jamille_Portfolio
-Example data science portfolio
+# Example data science portfolio
 
 Data cleaning techniques with the Python Programming Language
 
-Pre-requisite
----
-Importing pandas library
----
-UR CODE GOES BELOW
+Pre-requisites
+>
+> Importing pandas and numpy library
+>
+> import pandas as pd
+>
+> import numpy as np
 
-import pandas as pd
+Example 1
+>
+> Renaming column names
+> Dataset url = http://bit.ly/SampleDataset
+>
+> Reading our dataset from the url 
 
-Pre-requisite 2
-
-Importing the seaborn library
-This is a visualisation library
-
-import seaborn as sns
+> df = pd.read_csv('http://bit.ly/SampleDataset')
+df.head()
