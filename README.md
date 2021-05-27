@@ -1,4 +1,6 @@
-# Example data science portfolio
+# Jamille_Portfolio
+
+Example data science portfolio
 
 ## Data cleaning techniques with the Python Programming Language
 
